@@ -1,6 +1,6 @@
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.
 
-For your convenience a copy of provide here. This was taken from https://github.com/idleberg/Creative-Commons-4.0-Markdown/blob/master/licenses/by-nc-sa.markdown
+For your convenience a copy is provided here, there may be errors so check the official license. (This copy was from https://github.com/idleberg/Creative-Commons-4.0-Markdown/blob/master/licenses/by-nc-sa.markdown)
 
 ## creative commons
 
@@ -150,7 +150,7 @@ b. Where Your right to use the Licensed Material has terminated under Section 6(
 
  1. automatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or
 
- 2. automatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or
+ 2. upon express reinstatement by the Licensor.
 
  For the avoidance of doubt, this Section 6(b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.
 
@@ -175,7 +175,7 @@ c. No term or condition of this Public License will be waived and no failure to 
 d. Nothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.
 
 ```
-Creative Commons is not a party to its public licenses. Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the “Licensor.” Except for the limited purpose of indicating that material is shared under a Creative Commons public license or as otherwise permitted by the Creative Commons policies published at [creativecommons.org/policies](http://creativecommons.org/policies), Creative Commons does not authorize the use of the trademark “Creative Commons” or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material. For the avoidance of doubt, this paragraph does not form part of the public licenses. 
+Creative Commons is not a party to its public licenses. Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the “Licensor.” The text of the Creative Commons public licenses is dedicated to the public domain under the [CC0 Public Domain Dedication](http://creativecommons.org/licenses/by-nc-sa/4.0/creativecommons.org/zero/1.0/legalcode). Except for the limited purpose of indicating that material is shared under a Creative Commons public license or as otherwise permitted by the Creative Commons policies published at [creativecommons.org/policies](http://creativecommons.org/policies), Creative Commons does not authorize the use of the trademark “Creative Commons” or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material. For the avoidance of doubt, this paragraph does not form part of the public licenses. 
 
 Creative Commons may be contacted at [creativecommons.org](http://creativecommons.org/).
 ```
