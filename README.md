@@ -15,7 +15,7 @@ After you have meditated on the question of whether you want to expend
 that amount of effort learning Japanese and have decided that the
 answer will be yes, then this project can help you.
 
-What this app *wont't* do.
+What this app *won't* do.
 ==========================
 
 Let you read copyrighted material
