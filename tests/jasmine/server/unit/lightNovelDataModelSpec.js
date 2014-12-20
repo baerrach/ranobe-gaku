@@ -13,7 +13,7 @@ describe("Light Novel", function () {
 
         lightNovel.save();
 
-        expect(lightNove.id).toEqual("1");
+        expect(lightNovel.id).toEqual("1");
         expect(LightNovels.insert).toHaveBeenCalledWith({name: "Accel World"}, jasmine.any(Function));
     });
 });
