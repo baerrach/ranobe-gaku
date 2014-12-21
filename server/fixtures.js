@@ -3,7 +3,7 @@
 Meteor.startup(function() {
    if (Meteor.users.find().count() == 0) {
        var users = [
-           {name:"Normal User",email:"normal@example.com",roles:[], password: "normal3210"},
+           {name:"Normal User",email:"normal@example.com",roles:[], password: "normal42"},
            {name:"Admin User",email:"admin@example.com",roles:['admin'], password: "admin42"}
        ];
  

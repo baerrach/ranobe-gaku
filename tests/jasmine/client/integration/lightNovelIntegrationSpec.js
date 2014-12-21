@@ -18,4 +18,20 @@ describe("Light Novel", function () {
             });
         });
     });
+
+    it("can not be created by non admins", function (done) {
+        Meteor.loginWithPassword("normal@example.com", "normal42", function (err) {
+            expect(err).toBeUndefined();
+
+            var lightNovel = new Models.LightNovel(null, "Accel World");
+
+            var id = lightNovel.save(function (error, result) {
+                expect(error.error).toBe(403);
+
+                Meteor.logout(function () {
+                    done();
+                });
+            });
+        });
+    });
 });
