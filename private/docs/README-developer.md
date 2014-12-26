@@ -10,6 +10,7 @@ Meteor dependencies:
     * accounts-ui 
     * accounts-google
     * (eventually the other authentication services)
+* browser-policy
 
 Test dependencies:
 * sanjo:jasmine
