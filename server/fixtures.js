@@ -1,5 +1,5 @@
 "use strict";
-    
+
 Meteor.startup(function() {
    if (Meteor.users.find().count() == 0) {
        var users = [

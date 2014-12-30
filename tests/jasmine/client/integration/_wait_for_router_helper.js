@@ -4,10 +4,15 @@
     var isRouterReady = false;
     var callbacks = [];
 
+    console.log("Testing _wait_for...");
+    
     window.waitForRouter = function (callback) {
+        console.log("waitForRouter...");
         if (isRouterReady) {
+            console.log("waitForRouter - isRouterReady");
             callback();
         } else {
+            console.log("waitForRouter - not ready pushing callbacks.");
             callbacks.push(callback);
         }
     };
