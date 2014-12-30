@@ -1,4 +1,8 @@
-// https://github.com/Sanjo/meteor-jasmine/wiki/Integration-Tests-for-Iron-Router
+/*
+ * Taken from 
+ * https://github.com/Sanjo/meteor-jasmine/wiki/Integration-Tests-for-Iron-Router
+ * Implied public domain
+ */
 
 (function (Meteor, Tracker, Router) {
     var isRouterReady = false;

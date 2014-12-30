@@ -1,3 +1,7 @@
+<!--
+Ranobe Gaku by https://github.com/baerrach/ranobe-gaku is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-nc-sa/4.0/).
+-->
+
 http://www.palettefx.com/
 
 AW01_008.png
