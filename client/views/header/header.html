@@ -1,0 +1,21 @@
+<template name="header">
+  <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <div class="container-fluid">
+<!--
+      <div class="navbar-header">
+        <a class="navbar-brand" href="{{pathFor 'introduction'}}">BDD Tutorial</a>
+      </div>
+-->
+      <div class="navbar-collapse collapse">
+        <ul class="nav navbar-nav navbar-right">
+          {{> loginButtons }}
+        </ul>
+        <ul class="nav navbar-nav navbar-right">
+          {{#if isInRole 'admin'}}
+          <li><a class="brand" href="{{pathFor 'createLightNovel'}}" id="createLightNovel">Create light novel</a></li>
+          {{/if}}
+        </ul>
+      </div>
+    </div>
+  </div>
+</template>

@@ -7,9 +7,9 @@ meteor-platform
 sanjo:jasmine
 velocity:html-reporter
 mizzao:bootstrap-3
-iron:router
 accounts-ui
 accounts-google
 alanning:roles
 
 accounts-password
+iron:router

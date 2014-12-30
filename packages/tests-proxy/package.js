@@ -7,5 +7,6 @@ Package.describe({
 
 Package.on_use(function (api) {
 	api.use("coffeescript", ["client", "server"]);
+	api.add_files("tests/jasmine/client/integration/headerTemplateSpec.js",["client"]);
 	api.add_files("tests/jasmine/client/integration/lightNovelIntegrationSpec.js",["client"]);
 });
